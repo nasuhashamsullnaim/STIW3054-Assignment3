@@ -4,9 +4,6 @@
 3. Telegram Bot link : 
 https://t.me/s259265_bot
 
-4. Photo         : <img src="https://github.com/STIW3054-A192/stiw3054-assignment3-nasuhashamsullnaim/blob/master/images/photo6186185518807624182.jpg" width="500"/> 
-
-
 ## Introduction
 This is my assigment 3 system using telegram bot. in this assignment, we need to create telegram bot using bot father. after that, we need to make our bot can received the string from user and return the value such as length of the string and total number of alphabets that repeated. We need to register our bot using bot API. we also need to add our bot token. 
 
